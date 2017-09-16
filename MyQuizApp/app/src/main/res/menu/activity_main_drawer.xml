@@ -4,15 +4,15 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_math"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@android:color/holo_blue_dark"
             android:title="Mathematics" />
         <item
             android:id="@+id/nav_gk"
-            android:icon="@drawable/ic_menu_gallery"
+            android:icon="@android:color/holo_purple"
             android:title="General Knowledge" />
         <item
             android:id="@+id/nav_science"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:icon="@android:color/holo_green_dark"
             android:title="Science" />
     </group>
 
